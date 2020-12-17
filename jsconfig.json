@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "fish": ["./node_modules/@sdp.nd/fish"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
