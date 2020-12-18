@@ -9,5 +9,6 @@ module.exports = {
    */
   css: {
     extract: false
-  }
+  },
+  allowMomentLocale: true
 }

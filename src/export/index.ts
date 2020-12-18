@@ -1,3 +1,3 @@
-import EgComponent from './component'
+import UIMap from './component'
 
-export default EgComponent
+export default UIMap

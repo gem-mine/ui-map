@@ -1,0 +1,54 @@
+.label-wrap {
+  position: relative;
+  padding: 10px;
+  padding-right: 54px;
+  min-height: 54px;
+
+  & .label-ctrl {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 54px;
+    border-left: 1px solid #ddd;
+
+    & .marker-btn {
+      width: 100%;
+      padding: 5px;
+      border: none;
+      font-size: 12px;
+      height: 50%;
+      text-align: center;
+      border-radius: 0;
+    }
+
+    & .marker-confirm:hover {
+      border-bottom: 1px solid #ddd;
+    }
+
+    & .marker-confirm {
+      color: #3ba8f0;
+      border-bottom: 1px solid #ddd;
+    }
+
+    & .marker-cancel:hover {
+      color: #ff5745;
+    }
+  }
+}
+
+.label-text-main,
+.label-text-sub {
+  line-height: 18px;
+  font-size: 12px;
+  color: #666;
+}
+
+/*消除文档站对demo的影响*/
+.markdown-section img {
+  max-width: inherit;
+}
+
+aside.toc-nav {
+  z-index: 99 !important;
+}
