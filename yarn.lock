@@ -1008,10 +1008,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@gem-mine/babel-preset-app@^3.2.2":
-  version "3.2.2"
-  resolved "http://registry.npm.sdp.nd/@gem-mine/babel-preset-app/download/@gem-mine/babel-preset-app-3.2.2.tgz#6a7482185a1b265925d679524b56218d9768114d"
-  integrity sha1-anSCGFobJlkl1nlSS1YhjZdoEU0=
+"@gem-mine/babel-preset-app@^3.2.3-alpha.0":
+  version "3.2.3-alpha.0"
+  resolved "https://registry.yarnpkg.com/@gem-mine/babel-preset-app/-/babel-preset-app-3.2.3-alpha.0.tgz#6ca7235c6c3e0aa8bafacf74f449c57cb89edf51"
+  integrity sha512-TlXAOZFbD2nneTOfHPTvyDAmwuv70TXkrWAMrABwF9EydPYtR2MsdaZy5Pso/5dBcpZmzDpyMXRDRYXUmIkD3A==
   dependencies:
     "@babel/core" "^7.11.4"
     "@babel/plugin-proposal-class-properties" "^7.11.4"
@@ -1028,10 +1028,10 @@
     react-refresh "^0.7.1"
     semver "^6.3.0"
 
-"@gem-mine/cli-plugin-doc@^3.4.2":
-  version "3.5.2"
-  resolved "http://registry.npm.sdp.nd/@gem-mine/cli-plugin-doc/download/@gem-mine/cli-plugin-doc-3.5.2.tgz#4ab698b7150d760851fb8c0ce064cb73362cdec3"
-  integrity sha1-SraYtxUNdghR+4wM4GTLczYs3sM=
+"@gem-mine/cli-plugin-doc@^3.6.0-alpha.0":
+  version "3.6.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/@gem-mine/cli-plugin-doc/-/cli-plugin-doc-3.6.0-alpha.0.tgz#b8153bddeeab3281db680582667c520f7355ea80"
+  integrity sha512-phi8gSqDONRMUBpaNW/BhL8qnPQ9wG7v+E33nCiKCJ/TS+LHrGeGtCEQLUiEVHepCIImeqiTtyAnRzg517QeyQ==
   dependencies:
     chalk "^3.0.0"
     connect "^3.7.0"
@@ -1045,22 +1045,22 @@
     serve-static "^1.14.1"
     webpack "^4.35.2"
 
-"@gem-mine/cli-plugin-eslint@^3.3.3":
-  version "3.3.3"
-  resolved "http://registry.npm.sdp.nd/@gem-mine/cli-plugin-eslint/download/@gem-mine/cli-plugin-eslint-3.3.3.tgz#c66950d9fa0efed3a5f9bdc3dda8c0ede91e9300"
-  integrity sha1-xmlQ2foO/tOl+b3D3ajA7ekekwA=
+"@gem-mine/cli-plugin-eslint@^3.3.4-alpha.0":
+  version "3.3.4-alpha.0"
+  resolved "https://registry.yarnpkg.com/@gem-mine/cli-plugin-eslint/-/cli-plugin-eslint-3.3.4-alpha.0.tgz#613ea6dac98ee1da6f1eeb298f1c32bfc79b2aa5"
+  integrity sha512-xao+b6VOnhf3I00Jp4HXOxIyq/EcVmjK9OCDa2ehhyiNdW0c3bH4xTX1LJCpYnGxZc6gf7C6dCHVqGEahYIUcw==
   dependencies:
-    "@gem-mine/cli-share-lib" "^2.9.4"
+    "@gem-mine/cli-share-lib" "^2.9.5-alpha.0"
     eslint "^7.5.0"
     eslint-formatter-friendly "^7.0.0"
     eslint-webpack-plugin "^2.4.1"
     globby "^10.0.2"
     webpack "^4.35.2"
 
-"@gem-mine/cli-plugin-jest@^1.6.7":
-  version "1.6.7"
-  resolved "http://registry.npm.sdp.nd/@gem-mine/cli-plugin-jest/download/@gem-mine/cli-plugin-jest-1.6.7.tgz#057eba93127124b3efe268fde162831c6b86a745"
-  integrity sha1-BX66kxJxJLPv4mj94WKDHGuGp0U=
+"@gem-mine/cli-plugin-jest@^1.6.8-alpha.0":
+  version "1.6.8-alpha.0"
+  resolved "https://registry.yarnpkg.com/@gem-mine/cli-plugin-jest/-/cli-plugin-jest-1.6.8-alpha.0.tgz#77e6e73c713739a986b195b4bc27661d22945ead"
+  integrity sha512-Kw5Zeb/yBkf/TEbLqd9TqD+srFfwGM2hMNnlWwj3Ci1cfzVhvs5LVXSFskN9V56toIykuU3Gh3oHlI0NYxZFsg==
   dependencies:
     "@babel/core" "^7.11.4"
     babel-jest "^26.6.3"
@@ -1070,16 +1070,16 @@
     jest-transform-stub "^2.0.0"
     jest-watch-typeahead "^0.4.2"
 
-"@gem-mine/cli-plugin-typescript@^3.0.1":
-  version "3.0.1"
-  resolved "http://registry.npm.sdp.nd/@gem-mine/cli-plugin-typescript/download/@gem-mine/cli-plugin-typescript-3.0.1.tgz#c413a94d9149f0d0dc49bd72b97ee3e277518ed7"
-  integrity sha1-xBOpTZFJ8NDcSb1yuX7j4ndRjtc=
+"@gem-mine/cli-plugin-typescript@^3.0.2-alpha.0":
+  version "3.0.2-alpha.0"
+  resolved "https://registry.yarnpkg.com/@gem-mine/cli-plugin-typescript/-/cli-plugin-typescript-3.0.2-alpha.0.tgz#e6779df8fe8e1ff23d7c87ba4b78a5c30eb85128"
+  integrity sha512-yfKj+3qEEdwPRRyKUgNwjFbL922H3s+GwScVudyP2Uh/mRbsVTGueo4JjkHWAWk863+6L4wVJIZVFoCl+NnOxw==
   dependencies:
     fork-ts-checker-webpack-plugin "^5.0.11"
     ts-loader "^6.2.1"
     typescript "~4.0.5"
 
-"@gem-mine/cli-share-lib@^2.9.4":
+"@gem-mine/cli-share-lib@^2.9.5-alpha.0":
   version "2.9.5"
   resolved "http://registry.npm.sdp.nd/@gem-mine/cli-share-lib/download/@gem-mine/cli-share-lib-2.9.5.tgz#84d3d7e83d5d062fd1ecba4360c3f1870d503a3c"
   integrity sha1-hNPX6D1dBi/R7LpDYMPxhw1QOjw=
@@ -1114,16 +1114,19 @@
   resolved "http://registry.npm.sdp.nd/@gem-mine/dev-entry/download/@gem-mine/dev-entry-2.5.0.tgz#ee8e60dfdd37fb52500f6ac32391e540c7677070"
   integrity sha1-7o5g3903+1JQD2rDI5HlQMdncHA=
 
-"@gem-mine/eslint-config-recommend-ts@^4.0.1":
-  version "4.0.1"
-  resolved "http://registry.npm.sdp.nd/@gem-mine/eslint-config-recommend-ts/download/@gem-mine/eslint-config-recommend-ts-4.0.1.tgz#022030668506311523f6b3b46f1febf90e34c987"
-  integrity sha1-AiAwZoUGMRUj9rO0bx/r+Q40yYc=
+"@gem-mine/eslint-config-recommend-ts@^4.0.2-alpha.0":
+  version "4.0.2-alpha.0"
+  resolved "https://registry.yarnpkg.com/@gem-mine/eslint-config-recommend-ts/-/eslint-config-recommend-ts-4.0.2-alpha.0.tgz#78b2c0d214cd4ec70239beafa47e39a5245734e1"
+  integrity sha512-IYF9Vw3twRBGbs7exbTsOnt0ZiH+duWaXtz3KMe9h12ped8ADbq+ZOTT4MPdwWjNWHfJhZ77n8vB8gJ5QC7pBQ==
   dependencies:
     "@gem-mine/eslint-config-recommend" "^3.2.3"
     "@typescript-eslint/eslint-plugin" "^4.4.1"
     "@typescript-eslint/parser" "^4.4.1"
     eslint-config-airbnb-typescript "^12.0.0"
     eslint-plugin-import "^2.21.2"
+    eslint-plugin-jsx-a11y "^6.3.0"
+    eslint-plugin-react "^7.20.0"
+    eslint-plugin-react-hooks "^4.1.0"
     typescript "~4.0.5"
 
 "@gem-mine/eslint-config-recommend@^3.2.3":
@@ -1373,13 +1376,13 @@
   dependencies:
     axios "^0.18.0"
 
-"@gem-mine/script@^2.19.2":
-  version "2.19.2"
-  resolved "https://registry.npm.taobao.org/@gem-mine/script/download/@gem-mine/script-2.19.2.tgz#e427b032e91020528fff50410d8cca561f0051ea"
-  integrity sha1-5CewMukQIFKP/1BBDYzKVh8AUeo=
+"@gem-mine/script@^2.20.0-alpha.0":
+  version "2.20.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/@gem-mine/script/-/script-2.20.0-alpha.0.tgz#8904fbeae5dbf83569d9b147a99dd0b78c2bf591"
+  integrity sha512-HSh9cS619MBQqjZjvYZaT39BkhAV6ZkOSBVLvxao34ONNx4jU6JKlGA9s9kzZXOnKRaoft5rZLRFPeTsWddfFA==
   dependencies:
     "@babel/core" "^7.11.4"
-    "@gem-mine/cli-share-lib" "^2.9.4"
+    "@gem-mine/cli-share-lib" "^2.9.5-alpha.0"
     "@gem-mine/css-split-webpack-plugin" "^0.2.7"
     "@gem-mine/dev-entry" "^2.5.0"
     "@gem-mine/webpack-hot-middleware" "^2.26.0"
@@ -1388,6 +1391,7 @@
     "@npmcli/ci-detect" "^1.2.0"
     "@pmmmwh/react-refresh-webpack-plugin" "0.3.3"
     address "^1.1.2"
+    arrify "^2.0.1"
     autoprefixer "^9.7.2"
     axios "^0.18.1"
     babel-loader "^8.0.5"
@@ -3421,8 +3425,8 @@ browserslist@^4.0.0, browserslist@^4.12.0, browserslist@^4.14.5, browserslist@^4
 
 bs-logger@0.x:
   version "0.2.6"
-  resolved "http://registry.npm.sdp.nd/bs-logger/download/bs-logger-0.2.6.tgz#eb7d365307a72cf974cc6cda76b68354ad336bd8"
-  integrity sha1-6302UwenLPl0zGzadraDVK0za9g=
+  resolved "https://registry.yarnpkg.com/bs-logger/-/bs-logger-0.2.6.tgz#eb7d365307a72cf974cc6cda76b68354ad336bd8"
+  integrity sha512-pd8DCoxmbgc7hyPKOvxtqNcjYoOsABPQdcCUjGp3d42VR2CX1ORhk2A87oqqu5R1kk+76nsxZupkmyd+MVtCog==
   dependencies:
     fast-json-stable-stringify "2.x"
 
@@ -9426,8 +9430,8 @@ make-dir@^3.0.0, make-dir@^3.0.2, make-dir@^3.1.0:
 
 make-error@1.x:
   version "1.3.6"
-  resolved "http://registry.npm.sdp.nd/make-error/download/make-error-1.3.6.tgz#2eb2e37ea9b67c4891f684a1394799af484cf7a2"
-  integrity sha1-LrLjfqm2fEiR9oShOUeZr0hM96I=
+  resolved "https://registry.yarnpkg.com/make-error/-/make-error-1.3.6.tgz#2eb2e37ea9b67c4891f684a1394799af484cf7a2"
+  integrity sha512-s8UhlNe7vPKomQhC1qFelMokr/Sc3AgNbso3n74mVPA5LTZwkB9NlXf4XPamLxJE8h0gh73rM94xvwRT2CVInw==
 
 makeerror@1.0.x:
   version "1.0.11"
@@ -9752,8 +9756,8 @@ mkcert@^1.2.0:
 
 mkdirp@1.x:
   version "1.0.4"
-  resolved "http://registry.npm.sdp.nd/mkdirp/download/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
-  integrity sha1-PrXtYmInVteaXw4qIh3+utdcL34=
+  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
+  integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
 
 mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@^0.5.5, mkdirp@~0.5.1:
   version "0.5.5"
@@ -13845,8 +13849,8 @@ trough@^1.0.0:
 
 ts-jest@^26.4.4:
   version "26.4.4"
-  resolved "http://registry.npm.sdp.nd/ts-jest/download/ts-jest-26.4.4.tgz#61f13fb21ab400853c532270e52cc0ed7e502c49"
-  integrity sha1-YfE/shq0AIU8UyJw5SzA7X5QLEk=
+  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-26.4.4.tgz#61f13fb21ab400853c532270e52cc0ed7e502c49"
+  integrity sha512-3lFWKbLxJm34QxyVNNCgXX1u4o/RV0myvA2y2Bxm46iGIjKlaY0own9gIckbjZJPn+WaJEnfPPJ20HHGpoq4yg==
   dependencies:
     "@types/jest" "26.x"
     bs-logger "0.x"
@@ -14846,8 +14850,8 @@ yaml@^1.7.2:
 
 yargs-parser@20.x:
   version "20.2.4"
-  resolved "http://registry.npm.sdp.nd/yargs-parser/download/yargs-parser-20.2.4.tgz#b42890f14566796f85ae8e3a25290d205f154a54"
-  integrity sha1-tCiQ8UVmeW+Fro46JSkNIF8VSlQ=
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-20.2.4.tgz#b42890f14566796f85ae8e3a25290d205f154a54"
+  integrity sha512-WOkpgNhPTlE73h4VFAFsOnomJVaovO8VqLDzy5saChRBFQFBoMYirowyW+Q9HB4HFF4Z7VZTiG3iSzJJA29yRA==
 
 yargs-parser@^10.0.0:
   version "10.1.0"

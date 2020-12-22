@@ -44,13 +44,13 @@
     "react-dom": "^16.7.0"
   },
   "devDependencies": {
-    "@gem-mine/babel-preset-app": "^3.2.2",
-    "@gem-mine/cli-plugin-doc": "^3.4.2",
-    "@gem-mine/cli-plugin-eslint": "^3.3.3",
-    "@gem-mine/cli-plugin-jest": "^1.6.7",
-    "@gem-mine/cli-plugin-typescript": "^3.0.1",
-    "@gem-mine/eslint-config-recommend-ts": "^4.0.1",
-    "@gem-mine/script": "^2.19.2",
+    "@gem-mine/babel-preset-app": "^3.2.3-alpha.0",
+    "@gem-mine/cli-plugin-doc": "^3.6.0-alpha.0",
+    "@gem-mine/cli-plugin-eslint": "^3.3.4-alpha.0",
+    "@gem-mine/cli-plugin-jest": "^1.6.8-alpha.0",
+    "@gem-mine/cli-plugin-typescript": "^3.0.2-alpha.0",
+    "@gem-mine/eslint-config-recommend-ts": "^4.0.2-alpha.0",
+    "@gem-mine/script": "^2.20.0-alpha.0",
     "@types/jest": "^26.0.19",
     "@types/node": "14.0.17",
     "@types/prop-types": "^15.7.1",
@@ -69,7 +69,8 @@
     "stylelint": "^9.10.1",
     "stylelint-config-recommended": "^2.1.0",
     "stylelint-config-standard": "^18.2.0",
-    "ts-jest": "^26.4.4"
+    "ts-jest": "^26.4.4",
+    "typescript": "~4.0.5"
   },
   "component-config": {
     "withRouter": false,
